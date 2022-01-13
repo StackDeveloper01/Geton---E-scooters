@@ -1,7 +1,5 @@
 App play store link https://play.google.com/store/apps/details?id=com.geton
 
-Language :- Dart
-
 Front-end Framework :- React Native
 
 Back-end Framework :- Laravel
